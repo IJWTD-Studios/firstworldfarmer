@@ -1,7 +1,10 @@
 # First World Farmer
+
 nhentai.net/g/177013
 
+
 First world farmer is a mod to the game 3rd world farmer found here: https://3rdworldfarmer.org/
+
 
 List of Mods:
 
@@ -20,6 +23,7 @@ Promotional material removed
 More to follow later!
 
 
+
 Please note: This is not an attack to any parties and is just an extention of an idea: "hey lets mod this game lol xd lmao rofl rofl," if you are any of the people here:
 
 Frederik Hermund
@@ -31,6 +35,7 @@ Ole Fabricius Kindt Toubro
 Roman Spycher
 
 Benjamin Salqvist
+
 
 
 This build was made on the latest stable release of the game, not the preview build.
