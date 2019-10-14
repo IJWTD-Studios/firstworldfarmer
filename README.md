@@ -1,7 +1,5 @@
 # First World Farmer
-<p style="text-align: center">def 456</p>
-  <p>My first paragraph.</p>
-</p>
+<center>This text will be center-aligned.</center>
 nhentai.net/g/177013
 
 First world farmer is a mod to the game 3rd world farmer found here: https://3rdworldfarmer.org/
