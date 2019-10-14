@@ -1,5 +1,4 @@
 # First World Farmer
-<center>This text will be center-aligned.</center>
 
 
 nhentai.net/g/177013
