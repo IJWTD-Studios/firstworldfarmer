@@ -1,22 +1,44 @@
 # First World Farmer
-<p style="text-align: center">def 456</p>
-  <h1>My First Heading</h1>
-</p>
-nhentai.net/g/177013
+First World Farmer is a modifed version of Third World Farmer found at:
+https://3rdworldfarmer.org/
 
-First world farmer is a mod to the game 3rd world farmer found here: https://3rdworldfarmer.org/
 
-List of Mods:
 
-Text Strings are chagned (Warning: These text strings are offencive and may offend you, please be cautioned.) 
-Sprites are modified (only some, more may follow), 
-Buying most items will not take away money, it will instead give you money. 
-Work efficiency is set to 10,000 which basically means loads more money, 
-Ads services removed and aynthing server side removed. I am not sure if leaderboards work, but if they do please do not submit your fake result to the leader board. Lets keep a fair playing ground! 
-Promotional material removed,
-More to follow later!
+# Modifications
 
-Please note: This is not an attack to any parties and is just an extention of an idea: "hey lets mod this game lol xd lmao rofl rofl," if you are any of the people here: 
+- Give
+
+
+Instead of taking away money/cash it will give you the amount you have purchasedof something
+
+
+
+-  Efficiency
+
+
+The Work efficiency of characters has been set to 10,000 allowing for more efficient working and therefore more money per turn/year
+
+-  Sprites
+
+
+Most of the sprites are modified to be more 'modern' and 'meta'
+
+- Text Changed
+
+
+Text strings for multiple items have been changed to more offensive versions, potential offense can damage you or scar you please do NOT play this game.
+
+-  Server side removal
+
+
+All server side objects have been removed. just in case please do not sumbit your score to the servers for fair play.
+
+# Note:
+This is not an attack to any parties and is just an extention of an idea: "hey lets mod this game lol xd lmao rofl rofl," 
+
+
+# Credit
+ALL credit goesa to these people:
 Frederik Hermund, 
 Jacob Elias Nielsen, 
 Ole Fabricius Kindt Toubro, 
