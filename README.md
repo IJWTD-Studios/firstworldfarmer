@@ -47,5 +47,7 @@ Benjamin Salqvist,
 
 This build was made on the latest stable release of the game, not the preview build.
 
+Huge thanks for this decompiler: https://github.com/jindrapetrik/jpexs-decompiler
+
 👌🏿😂
 thank
