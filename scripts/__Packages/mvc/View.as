@@ -1,0 +1,3 @@
+interface mvc.View
+{
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="33.0px" width="33.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 1.5, 1.5)">
+    <path d="M28.5 3.75 L28.5 26.25 Q28.5 27.2 27.85 27.85 27.2 28.5 26.25 28.5 L3.75 28.5 Q2.8 28.5 2.15 27.85 1.5 27.2 1.5 26.25 L1.5 3.75 Q1.5 2.8 2.15 2.15 2.8 1.5 3.75 1.5 L26.25 1.5 Q27.2 1.5 27.85 2.15 28.5 2.8 28.5 3.75" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M3.75 -1.5 L26.25 -1.5 Q28.4 -1.5 29.95 0.05 31.5 1.6 31.5 3.75 L31.5 26.25 Q31.5 28.4 29.95 29.95 28.4 31.5 26.25 31.5 L3.75 31.5 Q1.6 31.5 0.05 29.95 -1.5 28.4 -1.5 26.25 L-1.5 3.75 Q-1.5 1.6 0.05 0.05 1.6 -1.5 3.75 -1.5 M28.5 3.75 Q28.5 2.8 27.85 2.15 27.2 1.5 26.25 1.5 L3.75 1.5 Q2.8 1.5 2.15 2.15 1.5 2.8 1.5 3.75 L1.5 26.25 Q1.5 27.2 2.15 27.85 2.8 28.5 3.75 28.5 L26.25 28.5 Q27.2 28.5 27.85 27.85 28.5 27.2 28.5 26.25 L28.5 3.75" fill="#483a24" fill-rule="evenodd" stroke="none"/>
+    <pattern height="30" id="PatternID_618_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.35, -0.1)" patternUnits="userSpaceOnUse" viewBox="0 0 30 30" width="30">
+      <image height="30" width="30" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAADfUlEQVR42u2Wy08TQRzHCSd5dLfbdgu0gLCv7qPtPmZ3y3YplYJwEaNBDsb4uhgvyiOgiYJiBNQDwYMx0cRHMDEh8eRVo8Z49HEhAnow/ifOD11SCSUstJ6c5JfZnf3NfOb3/c38slVV/9s2LafEWnQhmE5zpI5E0vAMxly5qbViwBQf7DJ5Yh6xxGNTIJ5sGB6Db2XdAEA1lsrC4h6gOFowb0Ng4LtnuAe1OGIqyQXzpSLyFAEf8N0TvBiqMvXuThYCH2/OruEQAUgHUfhZAHw96WEN39FuNRnGUTIsanJItiRKgWcY2zzf5oOqdx58Rb1VtH0m23K0HxkdUugKttsZmZ51pNDkUB+yN2/CkRr3a+3EQYsnFnxFDSfVwlcGem/sUD4pOnL4sqOE5zMiNYv7cUcKLzhJesZRInNZJTwBcPDtTEWZbLLxvMkHlorX2BEY7mfxpCM9ouAqkWFHjtzJa03H81r8GAYO59XY2RyGZ5P0hc50RADfDp3mMHzUEoIvkBgxfEtdnCM7FW8e7DH1nNI4fkBtOpGRQhdhA11afDir0BPwDXywa/VQL0p1KtGrGPzAl9SlTiZI6Sr0eC5F38hI1HRXOjaWTUbHICoXNbVm1Ia2P9GeyySoRZUNd/u+UlsdMDg8cJhwfqexxGfcVHQEDhyMAzRnxAtWImw6SnTSd7TbFYNevSU20K0qrhydwhKfAjkPF2QZxtfhYgRl5eiYxVN30wzVWZbq5cHh6mB5r+W02GnYALwX1Ob4IGxIiY5YPLk3aKliYkkNG2DoAQwyO0rjSVsgnu4qr6WaypOazZP30wxZQHLIxsDrcI0AjPiQ7eBDl2aJfoh2V3kt1TJShMe5G80I5HNHiszhq3SvQ6BmcAGZt6XQrQ6RvmnxwUdam7+6vpNWrbOUg7jAa52p+eyZ1r7vE/QGU/MFsYFXvqqUr2rGE28waM1gatd0bFpb7U8Nv+P+u8kRbw2RRGUHQ54RT77EoFW9reYbQDF89fdG6tZMLrBU1vz+lWeFvoT4wEcAA9TgakH6FYOt+5BiyJ6K/PBBns0ElcXgd+sRYyCGv4e+YjJ7baCQTIOkJlu3orfX/ACZTabuq5kILMG3ioFBSqhKVoJcNLj6ZYMLLOPnZ4P9dq7XZVqrKtnWyyiW3BSCD8GQQLlb/f5UDK7iUgn2z6Dlar8AUj4MnoT9BWIAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M30.35 -0.1 L30.35 29.9 0.35 29.9 0.35 -0.1 30.35 -0.1" style="fill:url(#PatternID_618_1)"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0183, 0.0, 0.0, 0.0183, 15.0, 15.0)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#b6956d"/>
+      <stop offset="0.4980392156862745" stop-color="#faecde"/>
+      <stop offset="1.0" stop-color="#bc9d77"/>
+    </linearGradient>
+  </defs>
+</svg>

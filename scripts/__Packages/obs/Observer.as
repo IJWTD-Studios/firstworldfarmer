@@ -1,0 +1,3 @@
+interface obs.Observer
+{
+}
