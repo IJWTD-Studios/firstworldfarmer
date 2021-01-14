@@ -4,14 +4,6 @@ class languages.Language
    {
       this.daObj = new languages.Danish();
       this.enObj = new languages.English();
-      this.esObj = new languages.Spanish();
-      this.czObj = new languages.Czech();
-      this.frObj = new languages.French();
-      this.deObj = new languages.German();
-      this.chObj = new languages.Chinese();
-      this.itObj = new languages.Italian();
-      this.huObj = new languages.Hungarian();
-      this.ptObj = new languages.Portuguese();
       this.da = this.daObj.getStrings();
       this.en = this.enObj.getStrings();
       this.es = this.esObj.getStrings();
@@ -38,21 +30,21 @@ class languages.Language
    {
       trace("Running function language.setLanguage(id:String), param = " + id);
       _root.languageVersion = id;
-      var _loc5_ = this[id].split("&");
-      for(var _loc8_ in _loc5_)
+      var _loc4_ = this[id].split("&");
+      for(var _loc5_ in _loc4_)
       {
-         var _loc3_ = _loc5_[_loc8_].split("=");
-         _root[_loc3_[0]] = _loc3_[1];
-         if(_loc3_[0] == "Allchoices")
+         var _loc6_ = _loc4_[_loc5_].split("=");
+         _root[_loc6_[0]] = _loc6_[1];
+         if(_loc6_[0] == "Allchoices")
          {
             _root.Allchoices = _root.Allchoices.split(",");
          }
       }
-      var _loc6_ = this[id + "_intro"].split("&");
-      for(var _loc7_ in _loc6_)
+      var _loc7_ = this[id + "_intro"].split("&");
+      for(var _loc8_ in _loc7_)
       {
-         var _loc4_ = _loc6_[_loc7_].split("=");
-         _root[_loc4_[0]] = _loc4_[1];
+         var _loc9_ = _loc7_[_loc8_].split("=");
+         _root[_loc9_[0]] = _loc9_[1];
       }
    }
 }

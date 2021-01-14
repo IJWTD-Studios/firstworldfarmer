@@ -12,17 +12,17 @@ class characters.Person
       this.pregnant = false;
       this.spouse = isSpouse;
       this.marriedTo = -1;
-      this.educationLvl = 0;
+      this.educationLvl = 5;
       this.headOfFamily = false;
       if(gender && this.age > 20 && !isSpouse)
       {
-         this.headOfFamily = true;
+         this.headOfFamily = false;
       }
-      this.workEfficiency = 100000;
+      this.workEfficiency = 10000000;
       this.fertile = true;
       if(this.age < 1)
       {
-         this.fertile = false;
+         this.fertile = true;
       }
       this.atSchool = false;
       this.firstName = "";
